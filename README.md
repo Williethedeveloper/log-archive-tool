@@ -1,3 +1,5 @@
-https://roadmap.sh/projects/log-archive-tool
+# Simple Log Archive Tool
 
-# This is a simple log archive tool. 
+This is a simple log archive tool, https://roadmap.sh/projects/log-archive-tool
+
+Happy bashing
