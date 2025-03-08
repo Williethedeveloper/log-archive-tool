@@ -1,4 +1,4 @@
-# This is a simple log archive tool, https://roadmap.sh/projects/server-stats
+https://roadmap.sh/projects/server-stats
 
 # 📂 Log Archive Tool
  
